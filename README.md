@@ -16,8 +16,9 @@ A simple and responsive expense tracker app built using **React.js**. It allows 
 - JavaScript (ES6+)
 
 ## Screenshot
+![expenseTracker](https://github.com/user-attachments/assets/1cf240f8-6799-44c1-91bc-3b4108595847)
 
-![Expense Tracker](https://github.com/Ameen-hp/ReactProjects/raw/main/assets/expenseTracker.png)  <!-- Change this URL to your actual screenshot -->
+  <!-- Change this URL to your actual screenshot -->
 
 ## Setup Instructions
 
