@@ -48,7 +48,12 @@ A modern password generator app that creates strong and secure passwords based o
 
 | Expense Tracker | Password Generator |
 |-----------------|--------------------|
-| ![Expense Tracker](https://your-screenshot-link.com) | ![Password Generator](https://your-screenshot-link.com) |
+
+![ExpenseTracker](https://github.com/user-attachments/assets/32386687-bcd3-4cf4-a107-09eb10b2e436)
+
+![PasswordGenerator](https://github.com/user-attachments/assets/d7dc8586-e9e7-46a0-bdd6-01a29f6423b1)
+
+
 
 > Replace these links with actual hosted images from your repo or uploaded assets.
 
