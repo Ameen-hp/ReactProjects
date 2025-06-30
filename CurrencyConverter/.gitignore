@@ -1,0 +1,51 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Production
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS Files
+*.local
+
+# Next.js / SSR (if used)
+.next/
+out/
+dist-ssr/
+
+# Coverage reports
+coverage/
+
+# Optional npm cache
+.npm/
+.pnpm-store/
+
+# Others
+*.tgz
