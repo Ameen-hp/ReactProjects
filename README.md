@@ -52,7 +52,7 @@ A modern password generator app that creates strong and secure passwords based o
 ![ExpenseTracker](https://github.com/user-attachments/assets/32386687-bcd3-4cf4-a107-09eb10b2e436)
 
 ![PasswordGenerator](https://github.com/user-attachments/assets/d7dc8586-e9e7-46a0-bdd6-01a29f6423b1)
-
+![CurrencyConverter](https://github.com/user-attachments/assets/25a32ba8-da8e-4115-8cb2-31e06bdc79e5)
 
 
 > Replace these links with actual hosted images from your repo or uploaded assets.
