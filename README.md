@@ -53,6 +53,8 @@ A modern password generator app that creates strong and secure passwords based o
 
 ![PasswordGenerator](https://github.com/user-attachments/assets/d7dc8586-e9e7-46a0-bdd6-01a29f6423b1)
 ![CurrencyConverter](https://github.com/user-attachments/assets/25a32ba8-da8e-4115-8cb2-31e06bdc79e5)
+<img width="716" height="543" alt="ThemSwitcher" src="https://github.com/user-attachments/assets/154d0e5c-c711-4ec5-b49c-0cc3f5cb0ec2" />
+
 
 
 > Replace these links with actual hosted images from your repo or uploaded assets.
